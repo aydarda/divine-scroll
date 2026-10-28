@@ -1,0 +1,354 @@
+chapter,verse_start,verse_end,person,basis,note
+1,1,6,anonymous,unattributed,This psalm has no heading in the text.
+2,1,6,anonymous,unattributed,This psalm has no heading in the text.
+2,7,12,anonymous,unattributed,This psalm has no heading in the text.
+3,1,8,david,stated_in_text,"Heading: “A Psalm by David, when he fled from Absalom his son.”"
+4,1,8,david,stated_in_text,Heading: “For the Chief Musician; on stringed instruments. A Psalm by David.”
+5,1,6,david,stated_in_text,"Heading: “For the Chief Musician, with the flutes. A Psalm by David.”"
+5,7,12,david,stated_in_text,"Heading: “For the Chief Musician, with the flutes. A Psalm by David.”"
+6,1,5,david,stated_in_text,"Heading: “For the Chief Musician; on stringed instruments, upon the eight-stringed lyre. A Psalm by David.”"
+6,6,10,david,stated_in_text,"Heading: “For the Chief Musician; on stringed instruments, upon the eight-stringed lyre. A Psalm by David.”"
+7,1,6,david,stated_in_text,"Heading: “A meditation by David, which he sang to the LORD, concerning the words of Cush, the Benjamite.”"
+7,7,11,david,stated_in_text,"Heading: “A meditation by David, which he sang to the LORD, concerning the words of Cush, the Benjamite.”"
+7,12,17,david,stated_in_text,"Heading: “A meditation by David, which he sang to the LORD, concerning the words of Cush, the Benjamite.”"
+8,1,4,david,stated_in_text,Heading: “For the Chief Musician; on an instrument of Gath. A Psalm by David.”
+8,5,9,david,stated_in_text,Heading: “For the Chief Musician; on an instrument of Gath. A Psalm by David.”
+9,1,7,david,stated_in_text,Heading: “For the Chief Musician. Set to “The Death of the Son.” A Psalm by David.”
+9,8,12,david,stated_in_text,Heading: “For the Chief Musician. Set to “The Death of the Son.” A Psalm by David.”
+9,13,20,david,stated_in_text,Heading: “For the Chief Musician. Set to “The Death of the Son.” A Psalm by David.”
+10,1,6,anonymous,unattributed,This psalm has no heading in the text.
+10,7,12,anonymous,unattributed,This psalm has no heading in the text.
+10,13,18,anonymous,unattributed,This psalm has no heading in the text.
+11,1,7,david,stated_in_text,Heading: “For the Chief Musician. By David.”
+12,1,8,david,stated_in_text,Heading: “For the Chief Musician; upon an eight-stringed lyre. A Psalm of David.”
+13,1,6,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+14,1,7,david,stated_in_text,Heading: “For the Chief Musician. By David.”
+15,1,5,david,stated_in_text,Heading: “A Psalm by David.”
+16,1,6,david,stated_in_text,Heading: “A Poem by David.”
+16,7,11,david,stated_in_text,Heading: “A Poem by David.”
+17,1,7,david,stated_in_text,Heading: “A Prayer by David.”
+17,8,15,david,stated_in_text,Heading: “A Prayer by David.”
+18,1,7,david,stated_in_text,"Heading: “For the Chief Musician. By David the servant of the LORD, who spoke to the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul. He said,”"
+18,8,14,david,stated_in_text,"Heading: “For the Chief Musician. By David the servant of the LORD, who spoke to the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul. He said,”"
+18,15,21,david,stated_in_text,"Heading: “For the Chief Musician. By David the servant of the LORD, who spoke to the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul. He said,”"
+18,22,29,david,stated_in_text,"Heading: “For the Chief Musician. By David the servant of the LORD, who spoke to the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul. He said,”"
+18,30,36,david,stated_in_text,"Heading: “For the Chief Musician. By David the servant of the LORD, who spoke to the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul. He said,”"
+18,37,43,david,stated_in_text,"Heading: “For the Chief Musician. By David the servant of the LORD, who spoke to the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul. He said,”"
+18,44,50,david,stated_in_text,"Heading: “For the Chief Musician. By David the servant of the LORD, who spoke to the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul. He said,”"
+19,1,7,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+19,8,14,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+20,1,4,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+20,5,9,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+21,1,6,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+21,7,13,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+24,1,5,david,stated_in_text,Heading: “A Psalm by David.”
+24,6,10,david,stated_in_text,Heading: “A Psalm by David.”
+25,1,7,david,stated_in_text,Heading: “By David.”
+25,8,15,david,stated_in_text,Heading: “By David.”
+25,16,22,david,stated_in_text,Heading: “By David.”
+26,1,5,david,stated_in_text,Heading: “By David.”
+26,6,12,david,stated_in_text,Heading: “By David.”
+27,1,7,david,stated_in_text,Heading: “By David.”
+27,8,14,david,stated_in_text,Heading: “By David.”
+28,1,4,david,stated_in_text,Heading: “By David.”
+28,5,9,david,stated_in_text,Heading: “By David.”
+29,1,6,david,stated_in_text,Heading: “A Psalm by David.”
+29,7,11,david,stated_in_text,Heading: “A Psalm by David.”
+30,1,6,david,stated_in_text,Heading: “A Psalm. A Song for the Dedication of the Temple. By David.”
+30,7,12,david,stated_in_text,Heading: “A Psalm. A Song for the Dedication of the Temple. By David.”
+31,1,8,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+31,9,16,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+31,17,24,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+32,1,6,david,stated_in_text,Heading: “By David. A contemplative psalm.”
+32,7,11,david,stated_in_text,Heading: “By David. A contemplative psalm.”
+33,1,7,anonymous,unattributed,This psalm has no heading in the text.
+33,8,15,anonymous,unattributed,This psalm has no heading in the text.
+33,16,22,anonymous,unattributed,This psalm has no heading in the text.
+34,1,7,david,stated_in_text,"Heading: “By David; when he pretended to be insane before Abimelech, who drove him away, and he departed.”"
+34,8,15,david,stated_in_text,"Heading: “By David; when he pretended to be insane before Abimelech, who drove him away, and he departed.”"
+34,16,22,david,stated_in_text,"Heading: “By David; when he pretended to be insane before Abimelech, who drove him away, and he departed.”"
+35,1,7,david,stated_in_text,Heading: “By David.”
+35,8,14,david,stated_in_text,Heading: “By David.”
+35,15,21,david,stated_in_text,Heading: “By David.”
+35,22,28,david,stated_in_text,Heading: “By David.”
+36,1,6,david,stated_in_text,"Heading: “For the Chief Musician. By David, the servant of the LORD.”"
+36,7,12,david,stated_in_text,"Heading: “For the Chief Musician. By David, the servant of the LORD.”"
+37,1,8,david,stated_in_text,Heading: “By David.”
+37,9,16,david,stated_in_text,Heading: “By David.”
+37,17,24,david,stated_in_text,Heading: “By David.”
+37,25,32,david,stated_in_text,Heading: “By David.”
+37,33,40,david,stated_in_text,Heading: “By David.”
+38,1,7,david,stated_in_text,"Heading: “A Psalm by David, for a memorial.”"
+38,8,15,david,stated_in_text,"Heading: “A Psalm by David, for a memorial.”"
+38,16,22,david,stated_in_text,"Heading: “A Psalm by David, for a memorial.”"
+39,1,6,david,stated_in_text,Heading: “For the Chief Musician. For Jeduthun. A Psalm by David.”
+39,7,13,david,stated_in_text,Heading: “For the Chief Musician. For Jeduthun. A Psalm by David.”
+40,1,6,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+40,7,11,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+40,12,17,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+41,1,6,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+41,7,13,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+43,1,5,anonymous,unattributed,This psalm has no heading in the text.
+44,1,6,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. By the sons of Korah. A contemplative psalm.”
+44,7,13,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. By the sons of Korah. A contemplative psalm.”
+44,14,19,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. By the sons of Korah. A contemplative psalm.”
+44,20,26,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. By the sons of Korah. A contemplative psalm.”
+45,1,6,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. Set to “The Lilies.” A contemplation by the sons of Korah. A wedding song.”
+45,7,11,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. Set to “The Lilies.” A contemplation by the sons of Korah. A wedding song.”
+45,12,17,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. Set to “The Lilies.” A contemplation by the sons of Korah. A wedding song.”
+46,1,6,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. By the sons of Korah. According to Alamoth.”
+46,7,11,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. By the sons of Korah. According to Alamoth.”
+47,1,4,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. A Psalm by the sons of Korah.”
+47,5,9,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. A Psalm by the sons of Korah.”
+48,1,7,sons-of-korah,stated_in_text,Heading: “A Song. A Psalm by the sons of Korah.”
+48,8,14,sons-of-korah,stated_in_text,Heading: “A Song. A Psalm by the sons of Korah.”
+49,1,7,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. A Psalm by the sons of Korah.”
+49,8,13,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. A Psalm by the sons of Korah.”
+49,14,20,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. A Psalm by the sons of Korah.”
+50,1,8,asaph,stated_in_text,Heading: “A Psalm by Asaph.”
+50,9,15,asaph,stated_in_text,Heading: “A Psalm by Asaph.”
+50,16,23,asaph,stated_in_text,Heading: “A Psalm by Asaph.”
+52,1,4,david,stated_in_text,"Heading: “For the Chief Musician. A contemplation by David, when Doeg the Edomite came and told Saul, “David has come to Ahimelech’s house.””"
+52,5,9,david,stated_in_text,"Heading: “For the Chief Musician. A contemplation by David, when Doeg the Edomite came and told Saul, “David has come to Ahimelech’s house.””"
+53,1,6,david,stated_in_text,Heading: “For the Chief Musician. To the tune of “Mahalath.” A contemplation by David.”
+54,1,7,david,stated_in_text,"Heading: “For the Chief Musician. On stringed instruments. A contemplation by David, when the Ziphites came and said to Saul, “Isn’t David hiding himself among us?””"
+55,1,8,david,stated_in_text,Heading: “For the Chief Musician. On stringed instruments. A contemplation by David.”
+55,9,15,david,stated_in_text,Heading: “For the Chief Musician. On stringed instruments. A contemplation by David.”
+55,16,23,david,stated_in_text,Heading: “For the Chief Musician. On stringed instruments. A contemplation by David.”
+56,1,6,david,stated_in_text,"Heading: “For the Chief Musician. To the tune of “Silent Dove in Distant Lands.” A poem by David, when the Philistines seized him in Gath.”"
+56,7,13,david,stated_in_text,"Heading: “For the Chief Musician. To the tune of “Silent Dove in Distant Lands.” A poem by David, when the Philistines seized him in Gath.”"
+57,1,6,david,stated_in_text,"Heading: “For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, when he fled from Saul, in the cave.”"
+57,7,11,david,stated_in_text,"Heading: “For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, when he fled from Saul, in the cave.”"
+58,1,6,david,stated_in_text,Heading: “For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David.”
+58,7,11,david,stated_in_text,Heading: “For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David.”
+59,1,6,david,stated_in_text,"Heading: “For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, when Saul sent, and they watched the house to kill him.”"
+59,7,11,david,stated_in_text,"Heading: “For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, when Saul sent, and they watched the house to kill him.”"
+59,12,17,david,stated_in_text,"Heading: “For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, when Saul sent, and they watched the house to kill him.”"
+60,1,6,david,stated_in_text,"Heading: “For the Chief Musician. To the tune of “The Lily of the Covenant.” A teaching poem by David, when he fought with Aram Naharaim and with Aram Zobah, and Joab returned, and killed twelve thousand of Edom in the Valley of Salt.”"
+60,7,12,david,stated_in_text,"Heading: “For the Chief Musician. To the tune of “The Lily of the Covenant.” A teaching poem by David, when he fought with Aram Naharaim and with Aram Zobah, and Joab returned, and killed twelve thousand of Edom in the Valley of Salt.”"
+61,1,8,david,stated_in_text,Heading: “For the Chief Musician. For a stringed instrument. By David.”
+62,1,6,david,stated_in_text,Heading: “For the Chief Musician. To Jeduthun. A Psalm by David.”
+62,7,12,david,stated_in_text,Heading: “For the Chief Musician. To Jeduthun. A Psalm by David.”
+63,1,6,david,stated_in_text,"Heading: “A Psalm by David, when he was in the desert of Judah.”"
+63,7,11,david,stated_in_text,"Heading: “A Psalm by David, when he was in the desert of Judah.”"
+64,1,5,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+64,6,10,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+65,1,6,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David. A song.”
+65,7,13,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David. A song.”
+66,1,7,anonymous,unattributed,The heading names no author: “For the Chief Musician. A song. A Psalm.”
+66,8,12,anonymous,unattributed,The heading names no author: “For the Chief Musician. A song. A Psalm.”
+66,13,20,anonymous,unattributed,The heading names no author: “For the Chief Musician. A song. A Psalm.”
+67,1,7,anonymous,unattributed,The heading names no author: “For the Chief Musician. With stringed instruments. A Psalm. A song.”
+68,1,7,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David. A song.”
+68,8,14,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David. A song.”
+68,15,21,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David. A song.”
+68,22,28,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David. A song.”
+68,29,35,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David. A song.”
+69,1,7,david,stated_in_text,Heading: “For the Chief Musician. To the tune of “Lilies.” By David.”
+69,8,14,david,stated_in_text,Heading: “For the Chief Musician. To the tune of “Lilies.” By David.”
+69,15,22,david,stated_in_text,Heading: “For the Chief Musician. To the tune of “Lilies.” By David.”
+69,23,29,david,stated_in_text,Heading: “For the Chief Musician. To the tune of “Lilies.” By David.”
+69,30,36,david,stated_in_text,Heading: “For the Chief Musician. To the tune of “Lilies.” By David.”
+70,1,5,david,stated_in_text,Heading: “For the Chief Musician. By David. A reminder.”
+71,1,8,anonymous,unattributed,This psalm has no heading in the text.
+71,9,16,anonymous,unattributed,This psalm has no heading in the text.
+71,17,24,anonymous,unattributed,This psalm has no heading in the text.
+72,1,7,solomon,stated_in_text,Heading: “By Solomon.”
+72,8,13,solomon,stated_in_text,Heading: “By Solomon.”
+72,14,20,solomon,stated_in_text,Heading: “By Solomon.”
+74,1,8,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+74,9,15,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+74,16,23,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+75,1,5,asaph,stated_in_text,Heading: “For the Chief Musician. To the tune of “Do Not Destroy.” A Psalm by Asaph. A song.”
+75,6,10,asaph,stated_in_text,Heading: “For the Chief Musician. To the tune of “Do Not Destroy.” A Psalm by Asaph. A song.”
+76,1,6,asaph,stated_in_text,Heading: “For the Chief Musician. On stringed instruments. A Psalm by Asaph. A song.”
+76,7,12,asaph,stated_in_text,Heading: “For the Chief Musician. On stringed instruments. A Psalm by Asaph. A song.”
+77,1,7,asaph,stated_in_text,Heading: “For the Chief Musician. To Jeduthun. A Psalm by Asaph.”
+77,8,13,asaph,stated_in_text,Heading: “For the Chief Musician. To Jeduthun. A Psalm by Asaph.”
+77,14,20,asaph,stated_in_text,Heading: “For the Chief Musician. To Jeduthun. A Psalm by Asaph.”
+78,1,8,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+78,9,16,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+78,17,24,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+78,25,32,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+78,33,40,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+78,41,48,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+78,49,55,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+78,56,64,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+78,65,72,asaph,stated_in_text,Heading: “A contemplation by Asaph.”
+79,1,5,asaph,stated_in_text,Heading: “A Psalm by Asaph.”
+79,6,13,asaph,stated_in_text,Heading: “A Psalm by Asaph.”
+80,1,6,asaph,stated_in_text,Heading: “For the Chief Musician. To the tune of “The Lilies of the Covenant.” A Psalm by Asaph.”
+80,7,13,asaph,stated_in_text,Heading: “For the Chief Musician. To the tune of “The Lilies of the Covenant.” A Psalm by Asaph.”
+80,14,19,asaph,stated_in_text,Heading: “For the Chief Musician. To the tune of “The Lilies of the Covenant.” A Psalm by Asaph.”
+81,1,8,asaph,stated_in_text,Heading: “For the Chief Musician. On an instrument of Gath. By Asaph.”
+81,9,16,asaph,stated_in_text,Heading: “For the Chief Musician. On an instrument of Gath. By Asaph.”
+82,1,8,asaph,stated_in_text,Heading: “A Psalm by Asaph.”
+83,1,5,asaph,stated_in_text,Heading: “A song. A Psalm by Asaph.”
+83,6,12,asaph,stated_in_text,Heading: “A song. A Psalm by Asaph.”
+83,13,18,asaph,stated_in_text,Heading: “A song. A Psalm by Asaph.”
+84,1,6,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. On an instrument of Gath. A Psalm by the sons of Korah.”
+84,7,12,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. On an instrument of Gath. A Psalm by the sons of Korah.”
+85,1,6,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. A Psalm by the sons of Korah.”
+85,7,13,sons-of-korah,stated_in_text,Heading: “For the Chief Musician. A Psalm by the sons of Korah.”
+86,1,6,david,stated_in_text,Heading: “A Prayer by David.”
+86,7,11,david,stated_in_text,Heading: “A Prayer by David.”
+86,12,17,david,stated_in_text,Heading: “A Prayer by David.”
+87,1,7,sons-of-korah,stated_in_text,Heading: “A Psalm by the sons of Korah; a Song.”
+88,1,6,sons-of-korah,stated_in_text,"Heading: “A Song. A Psalm by the sons of Korah. For the Chief Musician. To the tune of “The Suffering of Affliction.” A contemplation by Heman, the Ezrahite.”"
+88,7,12,sons-of-korah,stated_in_text,"Heading: “A Song. A Psalm by the sons of Korah. For the Chief Musician. To the tune of “The Suffering of Affliction.” A contemplation by Heman, the Ezrahite.”"
+88,13,18,sons-of-korah,stated_in_text,"Heading: “A Song. A Psalm by the sons of Korah. For the Chief Musician. To the tune of “The Suffering of Affliction.” A contemplation by Heman, the Ezrahite.”"
+89,1,7,ethan,stated_in_text,"Heading: “A contemplation by Ethan, the Ezrahite.”"
+89,8,15,ethan,stated_in_text,"Heading: “A contemplation by Ethan, the Ezrahite.”"
+89,16,22,ethan,stated_in_text,"Heading: “A contemplation by Ethan, the Ezrahite.”"
+89,23,29,ethan,stated_in_text,"Heading: “A contemplation by Ethan, the Ezrahite.”"
+89,30,37,ethan,stated_in_text,"Heading: “A contemplation by Ethan, the Ezrahite.”"
+89,38,45,ethan,stated_in_text,"Heading: “A contemplation by Ethan, the Ezrahite.”"
+89,46,52,ethan,stated_in_text,"Heading: “A contemplation by Ethan, the Ezrahite.”"
+91,1,8,anonymous,unattributed,This psalm has no heading in the text.
+91,9,16,anonymous,unattributed,This psalm has no heading in the text.
+92,1,8,anonymous,unattributed,The heading names no author: “A Psalm. A song for the Sabbath day.”
+92,9,15,anonymous,unattributed,The heading names no author: “A Psalm. A song for the Sabbath day.”
+93,1,5,anonymous,unattributed,This psalm has no heading in the text.
+94,1,8,anonymous,unattributed,This psalm has no heading in the text.
+94,9,15,anonymous,unattributed,This psalm has no heading in the text.
+94,16,23,anonymous,unattributed,This psalm has no heading in the text.
+95,1,5,anonymous,unattributed,This psalm has no heading in the text.
+95,6,11,anonymous,unattributed,This psalm has no heading in the text.
+96,1,6,anonymous,unattributed,This psalm has no heading in the text.
+96,7,13,anonymous,unattributed,This psalm has no heading in the text.
+97,1,6,anonymous,unattributed,This psalm has no heading in the text.
+97,7,12,anonymous,unattributed,This psalm has no heading in the text.
+98,1,4,anonymous,unattributed,The heading names no author: “A Psalm.”
+98,5,9,anonymous,unattributed,The heading names no author: “A Psalm.”
+99,1,4,anonymous,unattributed,This psalm has no heading in the text.
+99,5,9,anonymous,unattributed,This psalm has no heading in the text.
+100,1,5,anonymous,unattributed,The heading names no author: “A Psalm of thanksgiving.”
+101,1,8,david,stated_in_text,Heading: “A Psalm by David.”
+102,1,7,anonymous,unattributed,"The heading names no author: “A Prayer of the afflicted, when he is overwhelmed and pours out his complaint before the LORD.”"
+102,8,14,anonymous,unattributed,"The heading names no author: “A Prayer of the afflicted, when he is overwhelmed and pours out his complaint before the LORD.”"
+102,15,22,anonymous,unattributed,"The heading names no author: “A Prayer of the afflicted, when he is overwhelmed and pours out his complaint before the LORD.”"
+102,23,28,anonymous,unattributed,"The heading names no author: “A Prayer of the afflicted, when he is overwhelmed and pours out his complaint before the LORD.”"
+103,1,7,david,stated_in_text,Heading: “By David.”
+103,8,15,david,stated_in_text,Heading: “By David.”
+103,16,22,david,stated_in_text,Heading: “By David.”
+104,1,7,anonymous,unattributed,This psalm has no heading in the text.
+104,8,13,anonymous,unattributed,This psalm has no heading in the text.
+104,14,21,anonymous,unattributed,This psalm has no heading in the text.
+104,22,28,anonymous,unattributed,This psalm has no heading in the text.
+104,29,35,anonymous,unattributed,This psalm has no heading in the text.
+105,1,7,anonymous,unattributed,This psalm has no heading in the text.
+105,8,15,anonymous,unattributed,This psalm has no heading in the text.
+105,16,22,anonymous,unattributed,This psalm has no heading in the text.
+105,23,30,anonymous,unattributed,This psalm has no heading in the text.
+105,31,38,anonymous,unattributed,This psalm has no heading in the text.
+105,39,45,anonymous,unattributed,This psalm has no heading in the text.
+106,1,8,anonymous,unattributed,This psalm has no heading in the text.
+106,9,16,anonymous,unattributed,This psalm has no heading in the text.
+106,17,23,anonymous,unattributed,This psalm has no heading in the text.
+106,24,31,anonymous,unattributed,This psalm has no heading in the text.
+106,32,40,anonymous,unattributed,This psalm has no heading in the text.
+106,41,48,anonymous,unattributed,This psalm has no heading in the text.
+107,1,7,anonymous,unattributed,This psalm has no heading in the text.
+107,8,14,anonymous,unattributed,This psalm has no heading in the text.
+107,15,22,anonymous,unattributed,This psalm has no heading in the text.
+107,23,29,anonymous,unattributed,This psalm has no heading in the text.
+107,30,35,anonymous,unattributed,This psalm has no heading in the text.
+107,36,43,anonymous,unattributed,This psalm has no heading in the text.
+108,1,6,david,stated_in_text,Heading: “A Song. A Psalm by David.”
+108,7,13,david,stated_in_text,Heading: “A Song. A Psalm by David.”
+109,1,8,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+109,9,16,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+109,17,23,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+109,24,31,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+110,1,7,david,stated_in_text,Heading: “A Psalm by David.”
+111,1,5,anonymous,unattributed,This psalm has no heading in the text.
+111,6,10,anonymous,unattributed,This psalm has no heading in the text.
+112,1,5,anonymous,unattributed,This psalm has no heading in the text.
+112,6,10,anonymous,unattributed,This psalm has no heading in the text.
+113,1,4,anonymous,unattributed,This psalm has no heading in the text.
+113,5,9,anonymous,unattributed,This psalm has no heading in the text.
+114,1,8,anonymous,unattributed,This psalm has no heading in the text.
+115,1,6,anonymous,unattributed,This psalm has no heading in the text.
+115,7,12,anonymous,unattributed,This psalm has no heading in the text.
+115,13,18,anonymous,unattributed,This psalm has no heading in the text.
+116,1,6,anonymous,unattributed,This psalm has no heading in the text.
+116,7,13,anonymous,unattributed,This psalm has no heading in the text.
+116,14,19,anonymous,unattributed,This psalm has no heading in the text.
+117,1,2,anonymous,unattributed,This psalm has no heading in the text.
+118,1,7,anonymous,unattributed,This psalm has no heading in the text.
+118,8,14,anonymous,unattributed,This psalm has no heading in the text.
+118,15,22,anonymous,unattributed,This psalm has no heading in the text.
+118,23,29,anonymous,unattributed,This psalm has no heading in the text.
+119,1,8,anonymous,unattributed,This psalm has no heading in the text.
+119,9,16,anonymous,unattributed,This psalm has no heading in the text.
+119,17,24,anonymous,unattributed,This psalm has no heading in the text.
+119,25,32,anonymous,unattributed,This psalm has no heading in the text.
+119,33,40,anonymous,unattributed,This psalm has no heading in the text.
+119,41,48,anonymous,unattributed,This psalm has no heading in the text.
+119,49,56,anonymous,unattributed,This psalm has no heading in the text.
+119,57,64,anonymous,unattributed,This psalm has no heading in the text.
+119,65,72,anonymous,unattributed,This psalm has no heading in the text.
+119,73,80,anonymous,unattributed,This psalm has no heading in the text.
+119,81,88,anonymous,unattributed,This psalm has no heading in the text.
+119,89,96,anonymous,unattributed,This psalm has no heading in the text.
+119,97,104,anonymous,unattributed,This psalm has no heading in the text.
+119,105,112,anonymous,unattributed,This psalm has no heading in the text.
+119,113,120,anonymous,unattributed,This psalm has no heading in the text.
+119,121,128,anonymous,unattributed,This psalm has no heading in the text.
+119,129,136,anonymous,unattributed,This psalm has no heading in the text.
+119,137,144,anonymous,unattributed,This psalm has no heading in the text.
+119,145,152,anonymous,unattributed,This psalm has no heading in the text.
+119,153,160,anonymous,unattributed,This psalm has no heading in the text.
+119,161,168,anonymous,unattributed,This psalm has no heading in the text.
+119,169,176,anonymous,unattributed,This psalm has no heading in the text.
+120,1,7,anonymous,unattributed,The heading names no author: “A Song of Ascents.”
+122,1,4,david,stated_in_text,Heading: “A Song of Ascents. By David.”
+122,5,9,david,stated_in_text,Heading: “A Song of Ascents. By David.”
+123,1,4,anonymous,unattributed,The heading names no author: “A Song of Ascents.”
+124,1,8,david,stated_in_text,Heading: “A Song of Ascents. By David.”
+125,1,5,anonymous,unattributed,The heading names no author: “A Song of Ascents.”
+126,1,6,anonymous,unattributed,The heading names no author: “A Song of Ascents.”
+128,1,6,anonymous,unattributed,The heading names no author: “A Song of Ascents.”
+129,1,8,anonymous,unattributed,The heading names no author: “A Song of Ascents.”
+130,1,8,anonymous,unattributed,The heading names no author: “A Song of Ascents.”
+131,1,3,david,stated_in_text,Heading: “A Song of Ascents. By David.”
+132,1,6,anonymous,unattributed,The heading names no author: “A Song of Ascents.”
+132,7,12,anonymous,unattributed,The heading names no author: “A Song of Ascents.”
+132,13,18,anonymous,unattributed,The heading names no author: “A Song of Ascents.”
+133,1,3,david,stated_in_text,Heading: “A Song of Ascents. By David.”
+134,1,3,anonymous,unattributed,The heading names no author: “A Song of Ascents.”
+135,1,7,anonymous,unattributed,This psalm has no heading in the text.
+135,8,14,anonymous,unattributed,This psalm has no heading in the text.
+135,15,21,anonymous,unattributed,This psalm has no heading in the text.
+136,1,6,anonymous,unattributed,This psalm has no heading in the text.
+136,7,13,anonymous,unattributed,This psalm has no heading in the text.
+136,14,20,anonymous,unattributed,This psalm has no heading in the text.
+136,21,26,anonymous,unattributed,This psalm has no heading in the text.
+137,1,4,anonymous,unattributed,This psalm has no heading in the text.
+137,5,9,anonymous,unattributed,This psalm has no heading in the text.
+138,1,8,david,stated_in_text,Heading: “By David.”
+139,1,8,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+139,9,16,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+139,17,24,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+140,1,6,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+140,7,13,david,stated_in_text,Heading: “For the Chief Musician. A Psalm by David.”
+141,1,5,david,stated_in_text,Heading: “A Psalm by David.”
+141,6,10,david,stated_in_text,Heading: “A Psalm by David.”
+142,1,7,david,stated_in_text,"Heading: “A contemplation by David, when he was in the cave. A Prayer.”"
+143,1,6,david,stated_in_text,Heading: “A Psalm by David.”
+143,7,12,david,stated_in_text,Heading: “A Psalm by David.”
+144,1,8,david,stated_in_text,Heading: “By David.”
+144,9,15,david,stated_in_text,Heading: “By David.”
+145,1,7,david,stated_in_text,Heading: “A praise psalm by David.”
+145,8,14,david,stated_in_text,Heading: “A praise psalm by David.”
+145,15,21,david,stated_in_text,Heading: “A praise psalm by David.”
+146,1,4,anonymous,unattributed,This psalm has no heading in the text.
+146,5,10,anonymous,unattributed,This psalm has no heading in the text.
+147,1,6,anonymous,unattributed,This psalm has no heading in the text.
+147,7,13,anonymous,unattributed,This psalm has no heading in the text.
+147,14,20,anonymous,unattributed,This psalm has no heading in the text.
+148,1,6,anonymous,unattributed,This psalm has no heading in the text.
+148,7,14,anonymous,unattributed,This psalm has no heading in the text.
+149,1,4,anonymous,unattributed,This psalm has no heading in the text.
+149,5,9,anonymous,unattributed,This psalm has no heading in the text.
+150,1,6,anonymous,unattributed,This psalm has no heading in the text.
