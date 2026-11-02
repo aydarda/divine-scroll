@@ -20,4 +20,14 @@ class Person extends Model
     {
         return $this->hasMany(Attribution::class);
     }
+
+    public function facts(): HasMany
+    {
+        return $this->hasMany(PersonFact::class)->orderBy('sort');
+    }
+
+    public function relations(): HasMany
+    {
+        return $this->hasMany(PersonRelation::class)->orderBy('sort');
+    }
 }

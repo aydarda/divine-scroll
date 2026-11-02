@@ -1,0 +1,57 @@
+person,kind,value,year_from,year_to,basis,source,note
+david,hometown,Bethlehem,,,stated_in_text,1 Samuel 17:12,
+david,lived,"Hebron, as king over Judah (seven years and six months)",,,stated_in_text,2 Samuel 5:5,
+david,lived,"Jerusalem, as king over all Israel (thirty-three years)",,,stated_in_text,2 Samuel 5:5,
+david,years,Reigned forty years,-1010,-970,scholarly_estimate,2 Samuel 5:4,The text gives the length of his reign. The calendar dates are scholarly estimates and differ by a few decades.
+david,role,Shepherd who became king of Israel,,,stated_in_text,1 Samuel 16:11; 2 Samuel 5:3,
+solomon,born,Jerusalem,,,stated_in_text,2 Samuel 5:14,
+solomon,lived,"Jerusalem, as king over all Israel (forty years)",,,stated_in_text,1 Kings 11:42,
+solomon,years,Reigned forty years,-970,-931,scholarly_estimate,1 Kings 11:42,The text gives the length of his reign. The calendar dates are scholarly estimates.
+solomon,role,King of Israel who built the temple in Jerusalem,,,stated_in_text,1 Kings 6:1,
+moses,lived,"Egypt, raised in the household of Pharaoh’s daughter",,,stated_in_text,Exodus 2:10,
+moses,lived,"Midian, after fleeing Egypt",,,stated_in_text,Exodus 2:15,
+moses,lived,Died in the land of Moab at age 120,,,stated_in_text,Deuteronomy 34:5; 34:7,
+moses,years,Dated to the 15th or 13th century BC; scholars disagree,,,scholarly_estimate,Exodus 12:40,The text does not give a calendar date. Estimates depend on how the Exodus is dated.
+moses,role,Born to a Levite family; led Israel out of Egypt,,,stated_in_text,Exodus 2:1-2,
+asaph,role,Levite temple singer in the time of David,,,stated_in_text,1 Chronicles 15:19,
+ethan,role,Named as one of the wisest men of his time,,,stated_in_text,1 Kings 4:31,
+sons-of-korah,role,A family of Levite temple singers,,,stated_in_text,2 Chronicles 20:19,
+king-lemuel,role,"A king, named only in Proverbs 31:1",,,stated_in_text,Proverbs 31:1,
+agur,role,Named only in Proverbs 30:1,,,stated_in_text,Proverbs 30:1,
+isaiah,lived,"Judah and Jerusalem, in the reigns of Uzziah, Jotham, Ahaz and Hezekiah",,,stated_in_text,Isaiah 1:1,
+isaiah,years,Active under four kings of Judah,-740,-700,scholarly_estimate,Isaiah 1:1,The text names the kings. The calendar dates are scholarly estimates.
+jeremiah,hometown,"Anathoth, in the land of Benjamin",,,stated_in_text,Jeremiah 1:1,
+jeremiah,lived,"Egypt, after the fall of Jerusalem",,,stated_in_text,Jeremiah 43:6-7,
+jeremiah,years,Called in the thirteenth year of King Josiah,-627,-580,scholarly_estimate,Jeremiah 1:2,The text dates his call by Josiah’s reign. The calendar dates are scholarly estimates.
+jeremiah,role,Priest’s son and prophet,,,stated_in_text,Jeremiah 1:1,
+ezekiel,lived,Among the exiles by the Chebar canal in Babylonia,,,stated_in_text,Ezekiel 1:1; 1:3,
+ezekiel,years,Called in the fifth year of King Jehoiachin’s exile,-593,-571,scholarly_estimate,Ezekiel 1:2,The text dates his call by the exile of Jehoiachin. The calendar dates are scholarly estimates.
+ezekiel,role,Priest and prophet,,,stated_in_text,Ezekiel 1:3,
+daniel,lived,"Babylon, taken from Judah",,,stated_in_text,Daniel 1:6,
+daniel,role,Served at the Babylonian court,,,stated_in_text,Daniel 1:19,
+hosea,role,Prophet; married Gomer,,,stated_in_text,Hosea 1:3,
+amos,hometown,Tekoa,,,stated_in_text,Amos 1:1,
+amos,role,Herdsman and prophet,,,stated_in_text,Amos 1:1,
+jonah,hometown,Gath Hepher,,,stated_in_text,2 Kings 14:25,
+micah,hometown,Moresheth,,,stated_in_text,Micah 1:1,
+nahum,hometown,Elkosh (“the Elkoshite”),,,stated_in_text,Nahum 1:1,
+haggai,years,Prophesied in the second year of King Darius,-520,-520,scholarly_estimate,Haggai 1:1,The text dates his message by Darius’s reign. The calendar year is a scholarly estimate.
+zechariah-prophet,years,Prophesied in the second year of King Darius,-520,-520,scholarly_estimate,Zechariah 1:1,The text dates his message by Darius’s reign. The calendar year is a scholarly estimate.
+zechariah-priest,lived,The hill country of Judah,,,stated_in_text,Luke 1:39-40,
+zechariah-priest,role,Priest of the division of Abijah,,,stated_in_text,Luke 1:5,
+jesus,born,Bethlehem of Judea,,,stated_in_text,Matthew 2:1,
+jesus,hometown,"Nazareth, in Galilee",,,stated_in_text,Luke 2:39,
+jesus,lived,"Capernaum, during his ministry",,,stated_in_text,Matthew 4:13,
+jesus,years,Born before the death of Herod; about thirty when he began his ministry,-4,33,scholarly_estimate,Luke 3:23,The Gospels give no calendar date. Scholars usually place his birth around 4 BC and his death between AD 30 and 33.
+jesus,role,Called “the carpenter” in his hometown,,,stated_in_text,Mark 6:3,
+paul,born,Tarsus in Cilicia,,,stated_in_text,Acts 22:3,
+paul,lived,"Jerusalem, trained under Gamaliel",,,stated_in_text,Acts 22:3,"Paul says this in Jerusalem, speaking of “this city.”"
+paul,lived,Corinth for a year and six months,,,stated_in_text,Acts 18:11,
+paul,lived,"Rome, two years in a rented house",,,stated_in_text,Acts 28:30,
+paul,role,"Tent maker; a Roman citizen by birth, of the tribe of Benjamin",,,stated_in_text,Acts 18:3; Acts 22:28; Philippians 3:5,
+paul,years,Active from about AD 35 to the 60s,5,64,scholarly_estimate,Acts 7:58,The text gives no birth or death year. The dates are scholarly estimates.
+peter,hometown,Bethsaida,,,stated_in_text,John 1:44,
+peter,role,Fisherman and apostle,,,stated_in_text,Matthew 4:18,
+james,role,Calls himself a servant of God and of the Lord Jesus Christ,,,stated_in_text,James 1:1,
+john,lived,"The island of Patmos, when he wrote Revelation",,,stated_in_text,Revelation 1:9,
+jude,role,Calls himself a servant of Jesus Christ,,,stated_in_text,Jude 1:1,

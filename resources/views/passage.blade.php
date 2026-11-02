@@ -30,5 +30,8 @@
     </div>
     <div class="feed-container">
         @include('partials.post', ['passage' => $passage])
+        @include('partials.note-form', ['passage' => $passage])
+        @include('partials.comments', ['passage' => $passage])
+        @include('partials.correction-form', ['passage' => $passage])
     </div>
 @endsection

@@ -63,13 +63,28 @@
                 @endif
             </details>
 
-            <button type="button" class="share" data-share
-                data-url="{{ route('passage', $passage) }}"
-                data-title="{{ $who->name }} · {{ $passage->reference }}"
-                data-text="“{{ \Illuminate\Support\Str::limit($passage->body, 200) }}” — {{ $who->name }}, {{ $passage->reference }}">
-                <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v13"/></svg>
-                <span class="share-label">Share</span>
-            </button>
+            <div class="action-btns">
+                @auth
+                    @php $isSaved = \App\Support\Library::saved($passage->id); @endphp
+                    <button type="button" class="share save {{ $isSaved ? 'is-saved' : '' }}" data-bookmark
+                        data-url="{{ route('bookmark.toggle', $passage) }}"
+                        aria-pressed="{{ $isSaved ? 'true' : 'false' }}">
+                        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+                        <span class="save-label">{{ $isSaved ? 'Saved' : 'Save' }}</span>
+                    </button>
+                    <a class="share" href="{{ route('passage', $passage) }}#note">Note</a>
+                @else
+                    <a class="share" href="{{ route('login') }}">Save</a>
+                @endauth
+
+                <button type="button" class="share" data-share
+                    data-url="{{ route('passage', $passage) }}"
+                    data-title="{{ $who->name }} · {{ $passage->reference }}"
+                    data-text="“{{ \Illuminate\Support\Str::limit($passage->body, 200) }}” — {{ $who->name }}, {{ $passage->reference }}">
+                    <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v13"/></svg>
+                    <span class="share-label">Share</span>
+                </button>
+            </div>
         </div>
 
         @foreach ($incoming->take(3) as $link)
