@@ -526,6 +526,8 @@
         .pill-stated_in_text { background: #ecfdf5; color: #047857; }
         .pill-traditional { background: #fffbeb; color: #b45309; }
         .pill-scholarly_estimate { background: #eff6ff; color: #1d4ed8; }
+        .pill-speaker_only { background: #ecfdf5; color: #047857; }
+        .pill-unattributed { background: #f1f5f9; color: #475569; }
         .fact-note { margin-top: 2px; font-size: 12px; color: #9ca3af; line-height: 1.5; max-width: 46ch; }
         .not-recorded { color: #9ca3af; font-size: 14px; font-style: italic; }
         .profile-caveat { margin-top: 14px; font-size: 12px; color: #9ca3af; line-height: 1.5; }
@@ -591,7 +593,7 @@
         @yield('content')
     </main>
 
-    <footer>Scripture text: World English Bible, public domain. · <a href="{{ route('privacy') }}">Privacy</a> · <a href="{{ route('guidelines') }}">Guidelines</a></footer>
+    <footer>Scripture text: World English Bible, public domain. · <a href="{{ route('privacy') }}">Privacy</a> · <a href="{{ route('guidelines') }}">Guidelines</a> · <a href="{{ route('how') }}">How To Read</a></footer>
 </div>
 
 <script>

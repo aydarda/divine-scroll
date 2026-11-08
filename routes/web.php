@@ -1,5 +1,26 @@
 <?php
 
+// Zech 8:23 (TLB)
+// 23 In those days ten men from ten different nations will clutch at the coat sleeves of one Jew and say, ’Please be my friend, for I know that God is with you.’ "
+
+// Deu 28:12 (MSG)
+// GOD will throw open the doors of his sky vaults and pour rain on your land on schedule and bless the work you take in hand. You will lend to many nations but you yourself won't have to take out a loan.
+
+// Joh 15:16 (NKJV)
+// "You did not choose Me, but I chose you and appointed you that you should go and bear fruit, and that your fruit should remain, that whatever you ask the Father in My name He may give you.
+
+// Joh 4:38 (AMP)
+// I sent you to reap a crop for which you have not toiled. Other men have labored and you have stepped in to reap the results of their work.
+
+// Psalms 9:4 (TLB)
+// You have vindicated me; you have endorsed my work, declaring from your throne that it is good.
+
+// ⁠Psalm 90:17 (ESV)
+// Let the favor[a] of the Lord our God be upon us, and establish the work of our hands upon us; yes, establish the work of our hands!
+
+// ⁠Psalm 71:7 (TLB)
+// My success—at which so many stand amazed—is because you are my mighty protector.
+
 use App\Http\Controllers\FeedController;
 use Illuminate\Support\Facades\Route;
 
@@ -79,6 +100,8 @@ Route::middleware(['auth', EnsureAdmin::class])->prefix('admin')->group(function
     Route::post('/users/{user}/suspend', [AdminController::class, 'suspendUser'])->name('admin.user.suspend');
     Route::post('/users/{user}/unsuspend', [AdminController::class, 'unsuspendUser'])->name('admin.user.unsuspend');
 });
+
+Route::view('/how-to-read', 'how')->name('how');
 
 Route::view('/guidelines', 'guidelines')->name('guidelines');
 

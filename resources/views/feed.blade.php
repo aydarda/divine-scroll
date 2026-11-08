@@ -35,6 +35,11 @@
         @endforeach
     </div>
 
+        <details class="note-box">
+        <summary class="correction-summary">What do these filters mean?</summary>
+        @include('partials.basis-guide')
+    </details>
+
     <div id="feed" class="feed-container">
         @if ($posts->isEmpty())
             <p class="empty">No passages for this filter yet.</p>
